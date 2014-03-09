@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Github Plugin Search
-Plugin URI: http://github.com/10up/github-plugin-search
+Plugin URI: https://github.com/brainstormmedia/github-plugin-search
 Description: Search and install WordPress plugins from Github.
 Version: 0.3
 Author: Paul Clark, 10up
